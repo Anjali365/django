@@ -1,8 +1,8 @@
-# Myblog1.9
+# Myblog
 
 This project is an app based on BLOG features.  
 
-**This app has written in django 1.9**
+**This app has written in django**
 
 App Features
 ---------
